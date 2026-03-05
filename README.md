@@ -1,6 +1,5 @@
-## Muzena Hisyam Okbah | Data Science Graduate | Curious About Data
-
 ## Hi there 👋
+## Muzena Hisyam Okbah | Data Science Graduate | Curious About Data
 
 Welcome to my little corner of GitHub. I’m a Data Science graduate from Universitas Airlangga who enjoys exploring how data can help us understand the world a little better. I finished my degree in 3.5 years with a GPA of 3.64/4.00 (Cum Laude), and along the way I discovered how fascinating it is to turn raw data into insights, predictions, and meaningful solutions.
 
